@@ -1,0 +1,57 @@
+{
+  "url": "https://www.argos.co.uk/product/3284627",
+  "name": "Bose QuietComfort Ultra Over-Ear Wireless Headphones - Black",
+  "now": 134.99,
+  "was": null,
+  "history": [
+    {
+      "date": "2025-04-24",
+      "price": 349.95,
+      "source": "https://web.archive.org/web/20250424024147/https://www.argos.co.uk/product/3284627"
+    },
+    {
+      "date": "2025-08-13",
+      "price": 349.95,
+      "source": "https://web.archive.org/web/20250813022257/https://www.argos.co.uk/product/3284627"
+    },
+    {
+      "date": "2025-09-05",
+      "price": 349.95,
+      "source": "https://web.archive.org/web/20250905035637/https://www.argos.co.uk/product/3284627"
+    },
+    {
+      "date": "2025-10-07",
+      "price": 449.95,
+      "source": "https://web.archive.org/web/20251007164535/https://www.argos.co.uk/product/3284627"
+    },
+    {
+      "date": "2026-01-25",
+      "price": 449.95,
+      "source": "https://web.archive.org/web/20260125085118/https://www.argos.co.uk/product/3284627"
+    }
+  ],
+  "offers": [
+    {
+      "site": "www.amazon.co.uk",
+      "url": "https://www.amazon.co.uk/Bose-QuietComfort-Wireless-Cancelling-Headphones-Black/dp/B0CCZ1L489",
+      "price": 289.0,
+      "via": "Agent",
+      "in_stock": true
+    },
+    {
+      "site": "pricespy.co.uk",
+      "url": "https://pricespy.co.uk/product.php?p=11775526",
+      "price": 299.98,
+      "via": "Search"
+    }
+  ],
+  "code": "\ud83d\udfe2",
+  "title": "Genuine price drop",
+  "notes": [
+    "\u00a3134.99 is 61% below its typical archived price of \u00a3349.95.",
+    "This is the lowest price we've seen in the archive.",
+    "\u26a0\ufe0f Price hike spotted: \u00a3349.95 \u2192 \u00a3449.95 around 2025-10 \u2014 a classic move to inflate the 'was' price before a sale. Judge discounts against the older price.",
+    "Cheaper than other retailers we checked (next best: www.amazon.co.uk \u00a3289.00)."
+  ],
+  "checked": "05 Oct 2026 19:37"
+}

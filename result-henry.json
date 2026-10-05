@@ -1,0 +1,57 @@
+{
+  "url": "https://www.argos.co.uk/product/8801452",
+  "name": "Henry XL Plus Corded Bagged Cylinder Vacuum Cleaner",
+  "now": 139.99,
+  "was": 200.0,
+  "history": [
+    {
+      "date": "2025-05-21",
+      "price": 140.0,
+      "source": "https://web.archive.org/web/20250521154351/https://www.argos.co.uk/product/8801452"
+    },
+    {
+      "date": "2025-09-05",
+      "price": 180.0,
+      "source": "https://web.archive.org/web/20250905144513/https://www.argos.co.uk/product/8801452"
+    },
+    {
+      "date": "2025-12-24",
+      "price": 180.0,
+      "source": "https://web.archive.org/web/20251224074459/https://www.argos.co.uk/product/8801452"
+    },
+    {
+      "date": "2026-01-03",
+      "price": 180.0,
+      "source": "https://web.archive.org/web/20260103044730/https://www.argos.co.uk/product/8801452"
+    },
+    {
+      "date": "2026-04-15",
+      "price": 140.0,
+      "source": "https://web.archive.org/web/20260415041121/https://www.argos.co.uk/product/8801452"
+    }
+  ],
+  "offers": [
+    {
+      "site": "www.myhenry.com",
+      "url": "https://www.myhenry.com/henry-xl-plus",
+      "price": 139.99,
+      "via": "Agent",
+      "in_stock": true
+    },
+    {
+      "site": "pricespy.co.uk",
+      "url": "https://pricespy.co.uk/product.php?p=5877494",
+      "price": 139.0,
+      "via": "Search"
+    }
+  ],
+  "code": "\ud83d\udd34",
+  "title": "Fake sale",
+  "notes": [
+    "Claims it was \u00a3200.00, but the highest price we can find in the archive is \u00a3180.00.",
+    "This is the lowest price we've seen in the archive.",
+    "\u26a0\ufe0f Price hike spotted: \u00a3140.00 \u2192 \u00a3180.00 around 2025-09 \u2014 a classic move to inflate the 'was' price before a sale. Judge discounts against the older price.",
+    "About the same price elsewhere (cheapest: pricespy.co.uk \u00a3139.00)."
+  ],
+  "checked": "05 Oct 2026 19:34"
+}
